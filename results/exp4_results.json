@@ -1,0 +1,38 @@
+{
+  "experiment": "exp4_compression",
+  "params": {
+    "n_conversations": 5,
+    "budget_tokens": 8000,
+    "avg_original_tokens": 17409
+  },
+  "results": {
+    "truncation": {
+      "avg_ratio": 0.4499,
+      "per_conv": [
+        0.4725,
+        0.4258,
+        0.4413,
+        0.4748,
+        0.4353
+      ]
+    },
+    "3phase_glm": {
+      "model": "GLM-5.1",
+      "avg_ratio": 0.0887,
+      "per_conv": [
+        0.0889,
+        0.0905,
+        0.0968,
+        0.0757,
+        0.0917
+      ],
+      "llm_stats": {
+        "calls": 5,
+        "input_tokens": 37650,
+        "output_tokens": 1821,
+        "latency_ms": 59811.0,
+        "avg_latency_ms": 11962.0
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "provider": "GLM-5.1",
+  "candidates": 50,
+  "gt_in_candidates": 42,
+  "merged": 10,
+  "tp": 6,
+  "fp": 4,
+  "fn_in_scope": 36,
+  "precision": 0.6,
+  "recall_in_scope": 0.1429,
+  "f1": 0.2308,
+  "llm_stats": {
+    "calls": 50,
+    "input_tokens": 3988,
+    "output_tokens": 1849,
+    "latency_ms": 218277.0,
+    "avg_latency_ms": 4366.0
+  },
+  "elapsed_s": 218
+}

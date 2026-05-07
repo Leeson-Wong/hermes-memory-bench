@@ -1,0 +1,322 @@
+{
+  "experiment": "exp3_prefetch_v2",
+  "params": {
+    "n_scenarios": 10,
+    "n_history": 50,
+    "top_k": 5
+  },
+  "results": {
+    "glm": {
+      "model": "GLM-5.1",
+      "llm_stats": {
+        "calls": 40,
+        "input_tokens": 6957,
+        "output_tokens": 17702,
+        "latency_ms": 707964.0,
+        "avg_latency_ms": 17699.0
+      },
+      "strategies": {
+        "none": [
+          {
+            "scenario": 0,
+            "response_len": 908,
+            "injected_tokens": 0,
+            "referenced_relevant": 0,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 1,
+            "response_len": 896,
+            "injected_tokens": 0,
+            "referenced_relevant": 0,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 2,
+            "response_len": 842,
+            "injected_tokens": 0,
+            "referenced_relevant": 0,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 3,
+            "response_len": 985,
+            "injected_tokens": 0,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 4,
+            "response_len": 893,
+            "injected_tokens": 0,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 5,
+            "response_len": 936,
+            "injected_tokens": 0,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 6,
+            "response_len": 972,
+            "injected_tokens": 0,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 7,
+            "response_len": 1050,
+            "injected_tokens": 0,
+            "referenced_relevant": 0,
+            "total_relevant": 10
+          },
+          {
+            "scenario": 8,
+            "response_len": 917,
+            "injected_tokens": 0,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 9,
+            "response_len": 1033,
+            "injected_tokens": 0,
+            "referenced_relevant": 0,
+            "total_relevant": 10
+          }
+        ],
+        "full": [
+          {
+            "scenario": 0,
+            "response_len": 958,
+            "injected_tokens": 731,
+            "referenced_relevant": 0,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 1,
+            "response_len": 875,
+            "injected_tokens": 731,
+            "referenced_relevant": 2,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 2,
+            "response_len": 978,
+            "injected_tokens": 731,
+            "referenced_relevant": 0,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 3,
+            "response_len": 385,
+            "injected_tokens": 731,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 4,
+            "response_len": 524,
+            "injected_tokens": 731,
+            "referenced_relevant": 4,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 5,
+            "response_len": 948,
+            "injected_tokens": 731,
+            "referenced_relevant": 4,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 6,
+            "response_len": 949,
+            "injected_tokens": 731,
+            "referenced_relevant": 1,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 7,
+            "response_len": 265,
+            "injected_tokens": 731,
+            "referenced_relevant": 0,
+            "total_relevant": 10
+          },
+          {
+            "scenario": 8,
+            "response_len": 1015,
+            "injected_tokens": 731,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 9,
+            "response_len": 1082,
+            "injected_tokens": 731,
+            "referenced_relevant": 2,
+            "total_relevant": 10
+          }
+        ],
+        "prefetch": [
+          {
+            "scenario": 0,
+            "response_len": 894,
+            "injected_tokens": 80,
+            "referenced_relevant": 4,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 1,
+            "response_len": 941,
+            "injected_tokens": 79,
+            "referenced_relevant": 1,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 2,
+            "response_len": 870,
+            "injected_tokens": 80,
+            "referenced_relevant": 2,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 3,
+            "response_len": 625,
+            "injected_tokens": 83,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 4,
+            "response_len": 590,
+            "injected_tokens": 75,
+            "referenced_relevant": 1,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 5,
+            "response_len": 919,
+            "injected_tokens": 73,
+            "referenced_relevant": 2,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 6,
+            "response_len": 975,
+            "injected_tokens": 76,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 7,
+            "response_len": 604,
+            "injected_tokens": 78,
+            "referenced_relevant": 0,
+            "total_relevant": 10
+          },
+          {
+            "scenario": 8,
+            "response_len": 939,
+            "injected_tokens": 71,
+            "referenced_relevant": 1,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 9,
+            "response_len": 1212,
+            "injected_tokens": 67,
+            "referenced_relevant": 0,
+            "total_relevant": 10
+          }
+        ],
+        "random": [
+          {
+            "scenario": 0,
+            "response_len": 765,
+            "injected_tokens": 75,
+            "referenced_relevant": 0,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 1,
+            "response_len": 514,
+            "injected_tokens": 74,
+            "referenced_relevant": 1,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 2,
+            "response_len": 907,
+            "injected_tokens": 72,
+            "referenced_relevant": 0,
+            "total_relevant": 30
+          },
+          {
+            "scenario": 3,
+            "response_len": 787,
+            "injected_tokens": 71,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 4,
+            "response_len": 680,
+            "injected_tokens": 77,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 5,
+            "response_len": 916,
+            "injected_tokens": 70,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 6,
+            "response_len": 1017,
+            "injected_tokens": 69,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 7,
+            "response_len": 426,
+            "injected_tokens": 63,
+            "referenced_relevant": 0,
+            "total_relevant": 10
+          },
+          {
+            "scenario": 8,
+            "response_len": 926,
+            "injected_tokens": 70,
+            "referenced_relevant": 0,
+            "total_relevant": 20
+          },
+          {
+            "scenario": 9,
+            "response_len": 1020,
+            "injected_tokens": 66,
+            "referenced_relevant": 0,
+            "total_relevant": 10
+          }
+        ]
+      },
+      "total_injected_tokens": {
+        "none": 0,
+        "full": 7310,
+        "prefetch": 762,
+        "random": 707
+      },
+      "emb_compute": {
+        "none": 0,
+        "full": 0,
+        "prefetch": 25600,
+        "random": 0
+      }
+    }
+  }
+}

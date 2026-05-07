@@ -1,0 +1,5385 @@
+{
+  "experiment": "exp1_lifecycle",
+  "timestamp": "2026-05-07T02:41:56.475749",
+  "params": {
+    "n_records": 1000,
+    "days": 180,
+    "stale_days": 30,
+    "archive_days": 90
+  },
+  "hermes": [
+    {
+      "day": 0,
+      "date": "2026-01-01",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 406,
+      "reactivations": 406
+    },
+    {
+      "day": 1,
+      "date": "2026-01-02",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 2,
+      "date": "2026-01-03",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 3,
+      "date": "2026-01-04",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 4,
+      "date": "2026-01-05",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 5,
+      "date": "2026-01-06",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 6,
+      "date": "2026-01-07",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 7,
+      "date": "2026-01-08",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 8,
+      "date": "2026-01-09",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 9,
+      "date": "2026-01-10",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 10,
+      "date": "2026-01-11",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 11,
+      "date": "2026-01-12",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 12,
+      "date": "2026-01-13",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 13,
+      "date": "2026-01-14",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 14,
+      "date": "2026-01-15",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 15,
+      "date": "2026-01-16",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 16,
+      "date": "2026-01-17",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 17,
+      "date": "2026-01-18",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 18,
+      "date": "2026-01-19",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 19,
+      "date": "2026-01-20",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 20,
+      "date": "2026-01-21",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 21,
+      "date": "2026-01-22",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 22,
+      "date": "2026-01-23",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 23,
+      "date": "2026-01-24",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 24,
+      "date": "2026-01-25",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 25,
+      "date": "2026-01-26",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 26,
+      "date": "2026-01-27",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 27,
+      "date": "2026-01-28",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 28,
+      "date": "2026-01-29",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 29,
+      "date": "2026-01-30",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 30,
+      "date": "2026-01-31",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 31,
+      "date": "2026-02-01",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 32,
+      "date": "2026-02-02",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 33,
+      "date": "2026-02-03",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 34,
+      "date": "2026-02-04",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 35,
+      "date": "2026-02-05",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 36,
+      "date": "2026-02-06",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 37,
+      "date": "2026-02-07",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 38,
+      "date": "2026-02-08",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 39,
+      "date": "2026-02-09",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 40,
+      "date": "2026-02-10",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 41,
+      "date": "2026-02-11",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 42,
+      "date": "2026-02-12",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 43,
+      "date": "2026-02-13",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 44,
+      "date": "2026-02-14",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 45,
+      "date": "2026-02-15",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 46,
+      "date": "2026-02-16",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 47,
+      "date": "2026-02-17",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 48,
+      "date": "2026-02-18",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 49,
+      "date": "2026-02-19",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 50,
+      "date": "2026-02-20",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 51,
+      "date": "2026-02-21",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 52,
+      "date": "2026-02-22",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 53,
+      "date": "2026-02-23",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 54,
+      "date": "2026-02-24",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 55,
+      "date": "2026-02-25",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 56,
+      "date": "2026-02-26",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 57,
+      "date": "2026-02-27",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 58,
+      "date": "2026-02-28",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 59,
+      "date": "2026-03-01",
+      "total": 1000,
+      "active": 1000,
+      "stale": 0,
+      "archived": 0,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 60,
+      "date": "2026-03-02",
+      "total": 1000,
+      "active": 999,
+      "stale": 1,
+      "archived": 0,
+      "active_ratio": 0.999,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 61,
+      "date": "2026-03-03",
+      "total": 1000,
+      "active": 999,
+      "stale": 1,
+      "archived": 0,
+      "active_ratio": 0.999,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 62,
+      "date": "2026-03-04",
+      "total": 1000,
+      "active": 998,
+      "stale": 2,
+      "archived": 0,
+      "active_ratio": 0.998,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 63,
+      "date": "2026-03-05",
+      "total": 1000,
+      "active": 998,
+      "stale": 2,
+      "archived": 0,
+      "active_ratio": 0.998,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 64,
+      "date": "2026-03-06",
+      "total": 1000,
+      "active": 996,
+      "stale": 4,
+      "archived": 0,
+      "active_ratio": 0.996,
+      "total_transitions": 2,
+      "reactivations": 0
+    },
+    {
+      "day": 65,
+      "date": "2026-03-07",
+      "total": 1000,
+      "active": 995,
+      "stale": 5,
+      "archived": 0,
+      "active_ratio": 0.995,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 66,
+      "date": "2026-03-08",
+      "total": 1000,
+      "active": 991,
+      "stale": 9,
+      "archived": 0,
+      "active_ratio": 0.991,
+      "total_transitions": 4,
+      "reactivations": 0
+    },
+    {
+      "day": 67,
+      "date": "2026-03-09",
+      "total": 1000,
+      "active": 990,
+      "stale": 10,
+      "archived": 0,
+      "active_ratio": 0.99,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 68,
+      "date": "2026-03-10",
+      "total": 1000,
+      "active": 987,
+      "stale": 13,
+      "archived": 0,
+      "active_ratio": 0.987,
+      "total_transitions": 3,
+      "reactivations": 0
+    },
+    {
+      "day": 69,
+      "date": "2026-03-11",
+      "total": 1000,
+      "active": 984,
+      "stale": 16,
+      "archived": 0,
+      "active_ratio": 0.984,
+      "total_transitions": 3,
+      "reactivations": 0
+    },
+    {
+      "day": 70,
+      "date": "2026-03-12",
+      "total": 1000,
+      "active": 979,
+      "stale": 21,
+      "archived": 0,
+      "active_ratio": 0.979,
+      "total_transitions": 7,
+      "reactivations": 1
+    },
+    {
+      "day": 71,
+      "date": "2026-03-13",
+      "total": 1000,
+      "active": 976,
+      "stale": 24,
+      "archived": 0,
+      "active_ratio": 0.976,
+      "total_transitions": 3,
+      "reactivations": 0
+    },
+    {
+      "day": 72,
+      "date": "2026-03-14",
+      "total": 1000,
+      "active": 976,
+      "stale": 24,
+      "archived": 0,
+      "active_ratio": 0.976,
+      "total_transitions": 2,
+      "reactivations": 1
+    },
+    {
+      "day": 73,
+      "date": "2026-03-15",
+      "total": 1000,
+      "active": 975,
+      "stale": 25,
+      "archived": 0,
+      "active_ratio": 0.975,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 74,
+      "date": "2026-03-16",
+      "total": 1000,
+      "active": 970,
+      "stale": 30,
+      "archived": 0,
+      "active_ratio": 0.97,
+      "total_transitions": 7,
+      "reactivations": 1
+    },
+    {
+      "day": 75,
+      "date": "2026-03-17",
+      "total": 1000,
+      "active": 966,
+      "stale": 34,
+      "archived": 0,
+      "active_ratio": 0.966,
+      "total_transitions": 4,
+      "reactivations": 0
+    },
+    {
+      "day": 76,
+      "date": "2026-03-18",
+      "total": 1000,
+      "active": 959,
+      "stale": 41,
+      "archived": 0,
+      "active_ratio": 0.959,
+      "total_transitions": 7,
+      "reactivations": 0
+    },
+    {
+      "day": 77,
+      "date": "2026-03-19",
+      "total": 1000,
+      "active": 957,
+      "stale": 43,
+      "archived": 0,
+      "active_ratio": 0.957,
+      "total_transitions": 4,
+      "reactivations": 1
+    },
+    {
+      "day": 78,
+      "date": "2026-03-20",
+      "total": 1000,
+      "active": 952,
+      "stale": 48,
+      "archived": 0,
+      "active_ratio": 0.952,
+      "total_transitions": 7,
+      "reactivations": 1
+    },
+    {
+      "day": 79,
+      "date": "2026-03-21",
+      "total": 1000,
+      "active": 946,
+      "stale": 54,
+      "archived": 0,
+      "active_ratio": 0.946,
+      "total_transitions": 6,
+      "reactivations": 0
+    },
+    {
+      "day": 80,
+      "date": "2026-03-22",
+      "total": 1000,
+      "active": 936,
+      "stale": 64,
+      "archived": 0,
+      "active_ratio": 0.936,
+      "total_transitions": 12,
+      "reactivations": 1
+    },
+    {
+      "day": 81,
+      "date": "2026-03-23",
+      "total": 1000,
+      "active": 931,
+      "stale": 69,
+      "archived": 0,
+      "active_ratio": 0.931,
+      "total_transitions": 7,
+      "reactivations": 1
+    },
+    {
+      "day": 82,
+      "date": "2026-03-24",
+      "total": 1000,
+      "active": 929,
+      "stale": 71,
+      "archived": 0,
+      "active_ratio": 0.929,
+      "total_transitions": 6,
+      "reactivations": 2
+    },
+    {
+      "day": 83,
+      "date": "2026-03-25",
+      "total": 1000,
+      "active": 925,
+      "stale": 75,
+      "archived": 0,
+      "active_ratio": 0.925,
+      "total_transitions": 8,
+      "reactivations": 2
+    },
+    {
+      "day": 84,
+      "date": "2026-03-26",
+      "total": 1000,
+      "active": 919,
+      "stale": 81,
+      "archived": 0,
+      "active_ratio": 0.919,
+      "total_transitions": 6,
+      "reactivations": 0
+    },
+    {
+      "day": 85,
+      "date": "2026-03-27",
+      "total": 1000,
+      "active": 917,
+      "stale": 83,
+      "archived": 0,
+      "active_ratio": 0.917,
+      "total_transitions": 8,
+      "reactivations": 3
+    },
+    {
+      "day": 86,
+      "date": "2026-03-28",
+      "total": 1000,
+      "active": 913,
+      "stale": 87,
+      "archived": 0,
+      "active_ratio": 0.913,
+      "total_transitions": 4,
+      "reactivations": 0
+    },
+    {
+      "day": 87,
+      "date": "2026-03-29",
+      "total": 1000,
+      "active": 904,
+      "stale": 96,
+      "archived": 0,
+      "active_ratio": 0.904,
+      "total_transitions": 11,
+      "reactivations": 1
+    },
+    {
+      "day": 88,
+      "date": "2026-03-30",
+      "total": 1000,
+      "active": 894,
+      "stale": 106,
+      "archived": 0,
+      "active_ratio": 0.894,
+      "total_transitions": 14,
+      "reactivations": 2
+    },
+    {
+      "day": 89,
+      "date": "2026-03-31",
+      "total": 1000,
+      "active": 886,
+      "stale": 114,
+      "archived": 0,
+      "active_ratio": 0.886,
+      "total_transitions": 10,
+      "reactivations": 1
+    },
+    {
+      "day": 90,
+      "date": "2026-04-01",
+      "total": 1000,
+      "active": 881,
+      "stale": 119,
+      "archived": 0,
+      "active_ratio": 0.881,
+      "total_transitions": 9,
+      "reactivations": 2
+    },
+    {
+      "day": 91,
+      "date": "2026-04-02",
+      "total": 1000,
+      "active": 881,
+      "stale": 119,
+      "archived": 0,
+      "active_ratio": 0.881,
+      "total_transitions": 8,
+      "reactivations": 4
+    },
+    {
+      "day": 92,
+      "date": "2026-04-03",
+      "total": 1000,
+      "active": 869,
+      "stale": 131,
+      "archived": 0,
+      "active_ratio": 0.869,
+      "total_transitions": 14,
+      "reactivations": 1
+    },
+    {
+      "day": 93,
+      "date": "2026-04-04",
+      "total": 1000,
+      "active": 862,
+      "stale": 138,
+      "archived": 0,
+      "active_ratio": 0.862,
+      "total_transitions": 13,
+      "reactivations": 3
+    },
+    {
+      "day": 94,
+      "date": "2026-04-05",
+      "total": 1000,
+      "active": 854,
+      "stale": 146,
+      "archived": 0,
+      "active_ratio": 0.854,
+      "total_transitions": 18,
+      "reactivations": 5
+    },
+    {
+      "day": 95,
+      "date": "2026-04-06",
+      "total": 1000,
+      "active": 844,
+      "stale": 156,
+      "archived": 0,
+      "active_ratio": 0.844,
+      "total_transitions": 18,
+      "reactivations": 4
+    },
+    {
+      "day": 96,
+      "date": "2026-04-07",
+      "total": 1000,
+      "active": 837,
+      "stale": 163,
+      "archived": 0,
+      "active_ratio": 0.837,
+      "total_transitions": 15,
+      "reactivations": 4
+    },
+    {
+      "day": 97,
+      "date": "2026-04-08",
+      "total": 1000,
+      "active": 829,
+      "stale": 171,
+      "archived": 0,
+      "active_ratio": 0.829,
+      "total_transitions": 18,
+      "reactivations": 5
+    },
+    {
+      "day": 98,
+      "date": "2026-04-09",
+      "total": 1000,
+      "active": 823,
+      "stale": 177,
+      "archived": 0,
+      "active_ratio": 0.823,
+      "total_transitions": 12,
+      "reactivations": 3
+    },
+    {
+      "day": 99,
+      "date": "2026-04-10",
+      "total": 1000,
+      "active": 820,
+      "stale": 180,
+      "archived": 0,
+      "active_ratio": 0.82,
+      "total_transitions": 11,
+      "reactivations": 4
+    },
+    {
+      "day": 100,
+      "date": "2026-04-11",
+      "total": 1000,
+      "active": 818,
+      "stale": 182,
+      "archived": 0,
+      "active_ratio": 0.818,
+      "total_transitions": 16,
+      "reactivations": 7
+    },
+    {
+      "day": 101,
+      "date": "2026-04-12",
+      "total": 1000,
+      "active": 813,
+      "stale": 187,
+      "archived": 0,
+      "active_ratio": 0.813,
+      "total_transitions": 13,
+      "reactivations": 4
+    },
+    {
+      "day": 102,
+      "date": "2026-04-13",
+      "total": 1000,
+      "active": 803,
+      "stale": 197,
+      "archived": 0,
+      "active_ratio": 0.803,
+      "total_transitions": 14,
+      "reactivations": 2
+    },
+    {
+      "day": 103,
+      "date": "2026-04-14",
+      "total": 1000,
+      "active": 795,
+      "stale": 205,
+      "archived": 0,
+      "active_ratio": 0.795,
+      "total_transitions": 20,
+      "reactivations": 6
+    },
+    {
+      "day": 104,
+      "date": "2026-04-15",
+      "total": 1000,
+      "active": 792,
+      "stale": 208,
+      "archived": 0,
+      "active_ratio": 0.792,
+      "total_transitions": 13,
+      "reactivations": 5
+    },
+    {
+      "day": 105,
+      "date": "2026-04-16",
+      "total": 1000,
+      "active": 787,
+      "stale": 213,
+      "archived": 0,
+      "active_ratio": 0.787,
+      "total_transitions": 17,
+      "reactivations": 6
+    },
+    {
+      "day": 106,
+      "date": "2026-04-17",
+      "total": 1000,
+      "active": 780,
+      "stale": 220,
+      "archived": 0,
+      "active_ratio": 0.78,
+      "total_transitions": 17,
+      "reactivations": 5
+    },
+    {
+      "day": 107,
+      "date": "2026-04-18",
+      "total": 1000,
+      "active": 777,
+      "stale": 223,
+      "archived": 0,
+      "active_ratio": 0.777,
+      "total_transitions": 19,
+      "reactivations": 8
+    },
+    {
+      "day": 108,
+      "date": "2026-04-19",
+      "total": 1000,
+      "active": 760,
+      "stale": 240,
+      "archived": 0,
+      "active_ratio": 0.76,
+      "total_transitions": 23,
+      "reactivations": 3
+    },
+    {
+      "day": 109,
+      "date": "2026-04-20",
+      "total": 1000,
+      "active": 747,
+      "stale": 253,
+      "archived": 0,
+      "active_ratio": 0.747,
+      "total_transitions": 17,
+      "reactivations": 2
+    },
+    {
+      "day": 110,
+      "date": "2026-04-21",
+      "total": 1000,
+      "active": 744,
+      "stale": 256,
+      "archived": 0,
+      "active_ratio": 0.744,
+      "total_transitions": 23,
+      "reactivations": 10
+    },
+    {
+      "day": 111,
+      "date": "2026-04-22",
+      "total": 1000,
+      "active": 743,
+      "stale": 257,
+      "archived": 0,
+      "active_ratio": 0.743,
+      "total_transitions": 19,
+      "reactivations": 9
+    },
+    {
+      "day": 112,
+      "date": "2026-04-23",
+      "total": 1000,
+      "active": 732,
+      "stale": 268,
+      "archived": 0,
+      "active_ratio": 0.732,
+      "total_transitions": 21,
+      "reactivations": 5
+    },
+    {
+      "day": 113,
+      "date": "2026-04-24",
+      "total": 1000,
+      "active": 719,
+      "stale": 281,
+      "archived": 0,
+      "active_ratio": 0.719,
+      "total_transitions": 19,
+      "reactivations": 3
+    },
+    {
+      "day": 114,
+      "date": "2026-04-25",
+      "total": 1000,
+      "active": 705,
+      "stale": 295,
+      "archived": 0,
+      "active_ratio": 0.705,
+      "total_transitions": 28,
+      "reactivations": 7
+    },
+    {
+      "day": 115,
+      "date": "2026-04-26",
+      "total": 1000,
+      "active": 703,
+      "stale": 297,
+      "archived": 0,
+      "active_ratio": 0.703,
+      "total_transitions": 26,
+      "reactivations": 12
+    },
+    {
+      "day": 116,
+      "date": "2026-04-27",
+      "total": 1000,
+      "active": 701,
+      "stale": 299,
+      "archived": 0,
+      "active_ratio": 0.701,
+      "total_transitions": 24,
+      "reactivations": 11
+    },
+    {
+      "day": 117,
+      "date": "2026-04-28",
+      "total": 1000,
+      "active": 700,
+      "stale": 300,
+      "archived": 0,
+      "active_ratio": 0.7,
+      "total_transitions": 23,
+      "reactivations": 11
+    },
+    {
+      "day": 118,
+      "date": "2026-04-29",
+      "total": 1000,
+      "active": 688,
+      "stale": 312,
+      "archived": 0,
+      "active_ratio": 0.688,
+      "total_transitions": 24,
+      "reactivations": 6
+    },
+    {
+      "day": 119,
+      "date": "2026-04-30",
+      "total": 1000,
+      "active": 683,
+      "stale": 317,
+      "archived": 0,
+      "active_ratio": 0.683,
+      "total_transitions": 21,
+      "reactivations": 8
+    },
+    {
+      "day": 120,
+      "date": "2026-05-01",
+      "total": 1000,
+      "active": 683,
+      "stale": 317,
+      "archived": 0,
+      "active_ratio": 0.683,
+      "total_transitions": 22,
+      "reactivations": 11
+    },
+    {
+      "day": 121,
+      "date": "2026-05-02",
+      "total": 1000,
+      "active": 673,
+      "stale": 327,
+      "archived": 0,
+      "active_ratio": 0.673,
+      "total_transitions": 22,
+      "reactivations": 6
+    },
+    {
+      "day": 122,
+      "date": "2026-05-03",
+      "total": 1000,
+      "active": 668,
+      "stale": 332,
+      "archived": 0,
+      "active_ratio": 0.668,
+      "total_transitions": 21,
+      "reactivations": 8
+    },
+    {
+      "day": 123,
+      "date": "2026-05-04",
+      "total": 1000,
+      "active": 659,
+      "stale": 341,
+      "archived": 0,
+      "active_ratio": 0.659,
+      "total_transitions": 25,
+      "reactivations": 8
+    },
+    {
+      "day": 124,
+      "date": "2026-05-05",
+      "total": 1000,
+      "active": 650,
+      "stale": 350,
+      "archived": 0,
+      "active_ratio": 0.65,
+      "total_transitions": 27,
+      "reactivations": 9
+    },
+    {
+      "day": 125,
+      "date": "2026-05-06",
+      "total": 1000,
+      "active": 645,
+      "stale": 355,
+      "archived": 0,
+      "active_ratio": 0.645,
+      "total_transitions": 21,
+      "reactivations": 8
+    },
+    {
+      "day": 126,
+      "date": "2026-05-07",
+      "total": 1000,
+      "active": 636,
+      "stale": 364,
+      "archived": 0,
+      "active_ratio": 0.636,
+      "total_transitions": 33,
+      "reactivations": 12
+    },
+    {
+      "day": 127,
+      "date": "2026-05-08",
+      "total": 1000,
+      "active": 634,
+      "stale": 366,
+      "archived": 0,
+      "active_ratio": 0.634,
+      "total_transitions": 24,
+      "reactivations": 11
+    },
+    {
+      "day": 128,
+      "date": "2026-05-09",
+      "total": 1000,
+      "active": 632,
+      "stale": 368,
+      "archived": 0,
+      "active_ratio": 0.632,
+      "total_transitions": 30,
+      "reactivations": 14
+    },
+    {
+      "day": 129,
+      "date": "2026-05-10",
+      "total": 1000,
+      "active": 630,
+      "stale": 370,
+      "archived": 0,
+      "active_ratio": 0.63,
+      "total_transitions": 24,
+      "reactivations": 11
+    },
+    {
+      "day": 130,
+      "date": "2026-05-11",
+      "total": 1000,
+      "active": 610,
+      "stale": 390,
+      "archived": 0,
+      "active_ratio": 0.61,
+      "total_transitions": 32,
+      "reactivations": 6
+    },
+    {
+      "day": 131,
+      "date": "2026-05-12",
+      "total": 1000,
+      "active": 601,
+      "stale": 399,
+      "archived": 0,
+      "active_ratio": 0.601,
+      "total_transitions": 19,
+      "reactivations": 5
+    },
+    {
+      "day": 132,
+      "date": "2026-05-13",
+      "total": 1000,
+      "active": 602,
+      "stale": 398,
+      "archived": 0,
+      "active_ratio": 0.602,
+      "total_transitions": 21,
+      "reactivations": 11
+    },
+    {
+      "day": 133,
+      "date": "2026-05-14",
+      "total": 1000,
+      "active": 589,
+      "stale": 411,
+      "archived": 0,
+      "active_ratio": 0.589,
+      "total_transitions": 21,
+      "reactivations": 4
+    },
+    {
+      "day": 134,
+      "date": "2026-05-15",
+      "total": 1000,
+      "active": 571,
+      "stale": 429,
+      "archived": 0,
+      "active_ratio": 0.571,
+      "total_transitions": 34,
+      "reactivations": 8
+    },
+    {
+      "day": 135,
+      "date": "2026-05-16",
+      "total": 1000,
+      "active": 573,
+      "stale": 427,
+      "archived": 0,
+      "active_ratio": 0.573,
+      "total_transitions": 28,
+      "reactivations": 15
+    },
+    {
+      "day": 136,
+      "date": "2026-05-17",
+      "total": 1000,
+      "active": 573,
+      "stale": 427,
+      "archived": 0,
+      "active_ratio": 0.573,
+      "total_transitions": 38,
+      "reactivations": 19
+    },
+    {
+      "day": 137,
+      "date": "2026-05-18",
+      "total": 1000,
+      "active": 560,
+      "stale": 440,
+      "archived": 0,
+      "active_ratio": 0.56,
+      "total_transitions": 35,
+      "reactivations": 11
+    },
+    {
+      "day": 138,
+      "date": "2026-05-19",
+      "total": 1000,
+      "active": 559,
+      "stale": 441,
+      "archived": 0,
+      "active_ratio": 0.559,
+      "total_transitions": 25,
+      "reactivations": 12
+    },
+    {
+      "day": 139,
+      "date": "2026-05-20",
+      "total": 1000,
+      "active": 557,
+      "stale": 443,
+      "archived": 0,
+      "active_ratio": 0.557,
+      "total_transitions": 28,
+      "reactivations": 13
+    },
+    {
+      "day": 140,
+      "date": "2026-05-21",
+      "total": 1000,
+      "active": 560,
+      "stale": 440,
+      "archived": 0,
+      "active_ratio": 0.56,
+      "total_transitions": 41,
+      "reactivations": 22
+    },
+    {
+      "day": 141,
+      "date": "2026-05-22",
+      "total": 1000,
+      "active": 550,
+      "stale": 450,
+      "archived": 0,
+      "active_ratio": 0.55,
+      "total_transitions": 30,
+      "reactivations": 10
+    },
+    {
+      "day": 142,
+      "date": "2026-05-23",
+      "total": 1000,
+      "active": 549,
+      "stale": 451,
+      "archived": 0,
+      "active_ratio": 0.549,
+      "total_transitions": 23,
+      "reactivations": 11
+    },
+    {
+      "day": 143,
+      "date": "2026-05-24",
+      "total": 1000,
+      "active": 547,
+      "stale": 453,
+      "archived": 0,
+      "active_ratio": 0.547,
+      "total_transitions": 20,
+      "reactivations": 9
+    },
+    {
+      "day": 144,
+      "date": "2026-05-25",
+      "total": 1000,
+      "active": 546,
+      "stale": 454,
+      "archived": 0,
+      "active_ratio": 0.546,
+      "total_transitions": 21,
+      "reactivations": 10
+    },
+    {
+      "day": 145,
+      "date": "2026-05-26",
+      "total": 1000,
+      "active": 536,
+      "stale": 464,
+      "archived": 0,
+      "active_ratio": 0.536,
+      "total_transitions": 28,
+      "reactivations": 9
+    },
+    {
+      "day": 146,
+      "date": "2026-05-27",
+      "total": 1000,
+      "active": 533,
+      "stale": 467,
+      "archived": 0,
+      "active_ratio": 0.533,
+      "total_transitions": 31,
+      "reactivations": 14
+    },
+    {
+      "day": 147,
+      "date": "2026-05-28",
+      "total": 1000,
+      "active": 519,
+      "stale": 481,
+      "archived": 0,
+      "active_ratio": 0.519,
+      "total_transitions": 26,
+      "reactivations": 6
+    },
+    {
+      "day": 148,
+      "date": "2026-05-29",
+      "total": 1000,
+      "active": 527,
+      "stale": 473,
+      "archived": 0,
+      "active_ratio": 0.527,
+      "total_transitions": 36,
+      "reactivations": 22
+    },
+    {
+      "day": 149,
+      "date": "2026-05-30",
+      "total": 1000,
+      "active": 526,
+      "stale": 474,
+      "archived": 0,
+      "active_ratio": 0.526,
+      "total_transitions": 25,
+      "reactivations": 12
+    },
+    {
+      "day": 150,
+      "date": "2026-05-31",
+      "total": 1000,
+      "active": 530,
+      "stale": 470,
+      "archived": 0,
+      "active_ratio": 0.53,
+      "total_transitions": 36,
+      "reactivations": 20
+    },
+    {
+      "day": 151,
+      "date": "2026-06-01",
+      "total": 1000,
+      "active": 537,
+      "stale": 463,
+      "archived": 0,
+      "active_ratio": 0.537,
+      "total_transitions": 27,
+      "reactivations": 17
+    },
+    {
+      "day": 152,
+      "date": "2026-06-02",
+      "total": 1000,
+      "active": 535,
+      "stale": 465,
+      "archived": 0,
+      "active_ratio": 0.535,
+      "total_transitions": 38,
+      "reactivations": 18
+    },
+    {
+      "day": 153,
+      "date": "2026-06-03",
+      "total": 1000,
+      "active": 537,
+      "stale": 463,
+      "archived": 0,
+      "active_ratio": 0.537,
+      "total_transitions": 34,
+      "reactivations": 18
+    },
+    {
+      "day": 154,
+      "date": "2026-06-04",
+      "total": 1000,
+      "active": 542,
+      "stale": 458,
+      "archived": 0,
+      "active_ratio": 0.542,
+      "total_transitions": 29,
+      "reactivations": 17
+    },
+    {
+      "day": 155,
+      "date": "2026-06-05",
+      "total": 1000,
+      "active": 539,
+      "stale": 461,
+      "archived": 0,
+      "active_ratio": 0.539,
+      "total_transitions": 25,
+      "reactivations": 11
+    },
+    {
+      "day": 156,
+      "date": "2026-06-06",
+      "total": 1000,
+      "active": 530,
+      "stale": 470,
+      "archived": 0,
+      "active_ratio": 0.53,
+      "total_transitions": 29,
+      "reactivations": 10
+    },
+    {
+      "day": 157,
+      "date": "2026-06-07",
+      "total": 1000,
+      "active": 524,
+      "stale": 476,
+      "archived": 0,
+      "active_ratio": 0.524,
+      "total_transitions": 24,
+      "reactivations": 9
+    },
+    {
+      "day": 158,
+      "date": "2026-06-08",
+      "total": 1000,
+      "active": 515,
+      "stale": 485,
+      "archived": 0,
+      "active_ratio": 0.515,
+      "total_transitions": 27,
+      "reactivations": 9
+    },
+    {
+      "day": 159,
+      "date": "2026-06-09",
+      "total": 1000,
+      "active": 522,
+      "stale": 478,
+      "archived": 0,
+      "active_ratio": 0.522,
+      "total_transitions": 33,
+      "reactivations": 20
+    },
+    {
+      "day": 160,
+      "date": "2026-06-10",
+      "total": 1000,
+      "active": 525,
+      "stale": 475,
+      "archived": 0,
+      "active_ratio": 0.525,
+      "total_transitions": 25,
+      "reactivations": 14
+    },
+    {
+      "day": 161,
+      "date": "2026-06-11",
+      "total": 1000,
+      "active": 526,
+      "stale": 474,
+      "archived": 0,
+      "active_ratio": 0.526,
+      "total_transitions": 15,
+      "reactivations": 8
+    },
+    {
+      "day": 162,
+      "date": "2026-06-12",
+      "total": 1000,
+      "active": 536,
+      "stale": 464,
+      "archived": 0,
+      "active_ratio": 0.536,
+      "total_transitions": 38,
+      "reactivations": 24
+    },
+    {
+      "day": 163,
+      "date": "2026-06-13",
+      "total": 1000,
+      "active": 538,
+      "stale": 462,
+      "archived": 0,
+      "active_ratio": 0.538,
+      "total_transitions": 16,
+      "reactivations": 9
+    },
+    {
+      "day": 164,
+      "date": "2026-06-14",
+      "total": 1000,
+      "active": 545,
+      "stale": 455,
+      "archived": 0,
+      "active_ratio": 0.545,
+      "total_transitions": 31,
+      "reactivations": 19
+    },
+    {
+      "day": 165,
+      "date": "2026-06-15",
+      "total": 1000,
+      "active": 543,
+      "stale": 457,
+      "archived": 0,
+      "active_ratio": 0.543,
+      "total_transitions": 32,
+      "reactivations": 15
+    },
+    {
+      "day": 166,
+      "date": "2026-06-16",
+      "total": 1000,
+      "active": 542,
+      "stale": 458,
+      "archived": 0,
+      "active_ratio": 0.542,
+      "total_transitions": 37,
+      "reactivations": 18
+    },
+    {
+      "day": 167,
+      "date": "2026-06-17",
+      "total": 1000,
+      "active": 546,
+      "stale": 454,
+      "archived": 0,
+      "active_ratio": 0.546,
+      "total_transitions": 28,
+      "reactivations": 16
+    },
+    {
+      "day": 168,
+      "date": "2026-06-18",
+      "total": 1000,
+      "active": 544,
+      "stale": 456,
+      "archived": 0,
+      "active_ratio": 0.544,
+      "total_transitions": 28,
+      "reactivations": 13
+    },
+    {
+      "day": 169,
+      "date": "2026-06-19",
+      "total": 1000,
+      "active": 547,
+      "stale": 453,
+      "archived": 0,
+      "active_ratio": 0.547,
+      "total_transitions": 33,
+      "reactivations": 18
+    },
+    {
+      "day": 170,
+      "date": "2026-06-20",
+      "total": 1000,
+      "active": 539,
+      "stale": 461,
+      "archived": 0,
+      "active_ratio": 0.539,
+      "total_transitions": 38,
+      "reactivations": 15
+    },
+    {
+      "day": 171,
+      "date": "2026-06-21",
+      "total": 1000,
+      "active": 541,
+      "stale": 459,
+      "archived": 0,
+      "active_ratio": 0.541,
+      "total_transitions": 22,
+      "reactivations": 12
+    },
+    {
+      "day": 172,
+      "date": "2026-06-22",
+      "total": 1000,
+      "active": 546,
+      "stale": 454,
+      "archived": 0,
+      "active_ratio": 0.546,
+      "total_transitions": 27,
+      "reactivations": 16
+    },
+    {
+      "day": 173,
+      "date": "2026-06-23",
+      "total": 1000,
+      "active": 551,
+      "stale": 449,
+      "archived": 0,
+      "active_ratio": 0.551,
+      "total_transitions": 25,
+      "reactivations": 15
+    },
+    {
+      "day": 174,
+      "date": "2026-06-24",
+      "total": 1000,
+      "active": 553,
+      "stale": 447,
+      "archived": 0,
+      "active_ratio": 0.553,
+      "total_transitions": 22,
+      "reactivations": 12
+    },
+    {
+      "day": 175,
+      "date": "2026-06-25",
+      "total": 1000,
+      "active": 559,
+      "stale": 441,
+      "archived": 0,
+      "active_ratio": 0.559,
+      "total_transitions": 24,
+      "reactivations": 15
+    },
+    {
+      "day": 176,
+      "date": "2026-06-26",
+      "total": 1000,
+      "active": 562,
+      "stale": 438,
+      "archived": 0,
+      "active_ratio": 0.562,
+      "total_transitions": 31,
+      "reactivations": 17
+    },
+    {
+      "day": 177,
+      "date": "2026-06-27",
+      "total": 1000,
+      "active": 570,
+      "stale": 430,
+      "archived": 0,
+      "active_ratio": 0.57,
+      "total_transitions": 20,
+      "reactivations": 14
+    },
+    {
+      "day": 178,
+      "date": "2026-06-28",
+      "total": 1000,
+      "active": 569,
+      "stale": 431,
+      "archived": 0,
+      "active_ratio": 0.569,
+      "total_transitions": 43,
+      "reactivations": 21
+    },
+    {
+      "day": 179,
+      "date": "2026-06-29",
+      "total": 1000,
+      "active": 575,
+      "stale": 425,
+      "archived": 0,
+      "active_ratio": 0.575,
+      "total_transitions": 30,
+      "reactivations": 18
+    }
+  ],
+  "simple_expiry": [
+    {
+      "day": 0,
+      "date": "2026-01-01",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 1,
+      "date": "2026-01-02",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 2,
+      "date": "2026-01-03",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 3,
+      "date": "2026-01-04",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 4,
+      "date": "2026-01-05",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 5,
+      "date": "2026-01-06",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 6,
+      "date": "2026-01-07",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 7,
+      "date": "2026-01-08",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 8,
+      "date": "2026-01-09",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 9,
+      "date": "2026-01-10",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 10,
+      "date": "2026-01-11",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 11,
+      "date": "2026-01-12",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 12,
+      "date": "2026-01-13",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 13,
+      "date": "2026-01-14",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 14,
+      "date": "2026-01-15",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 15,
+      "date": "2026-01-16",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 16,
+      "date": "2026-01-17",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 17,
+      "date": "2026-01-18",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 18,
+      "date": "2026-01-19",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 19,
+      "date": "2026-01-20",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 20,
+      "date": "2026-01-21",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 21,
+      "date": "2026-01-22",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 22,
+      "date": "2026-01-23",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 23,
+      "date": "2026-01-24",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 24,
+      "date": "2026-01-25",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 25,
+      "date": "2026-01-26",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 26,
+      "date": "2026-01-27",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 27,
+      "date": "2026-01-28",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 28,
+      "date": "2026-01-29",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 29,
+      "date": "2026-01-30",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 30,
+      "date": "2026-01-31",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 31,
+      "date": "2026-02-01",
+      "active": 984,
+      "expired": 16,
+      "total": 1000,
+      "active_ratio": 0.984,
+      "total_transitions": 16,
+      "reactivations": 0
+    },
+    {
+      "day": 32,
+      "date": "2026-02-02",
+      "active": 963,
+      "expired": 37,
+      "total": 1000,
+      "active_ratio": 0.963,
+      "total_transitions": 21,
+      "reactivations": 0
+    },
+    {
+      "day": 33,
+      "date": "2026-02-03",
+      "active": 947,
+      "expired": 53,
+      "total": 1000,
+      "active_ratio": 0.947,
+      "total_transitions": 16,
+      "reactivations": 0
+    },
+    {
+      "day": 34,
+      "date": "2026-02-04",
+      "active": 933,
+      "expired": 67,
+      "total": 1000,
+      "active_ratio": 0.933,
+      "total_transitions": 14,
+      "reactivations": 0
+    },
+    {
+      "day": 35,
+      "date": "2026-02-05",
+      "active": 922,
+      "expired": 78,
+      "total": 1000,
+      "active_ratio": 0.922,
+      "total_transitions": 11,
+      "reactivations": 0
+    },
+    {
+      "day": 36,
+      "date": "2026-02-06",
+      "active": 901,
+      "expired": 99,
+      "total": 1000,
+      "active_ratio": 0.901,
+      "total_transitions": 21,
+      "reactivations": 0
+    },
+    {
+      "day": 37,
+      "date": "2026-02-07",
+      "active": 885,
+      "expired": 115,
+      "total": 1000,
+      "active_ratio": 0.885,
+      "total_transitions": 16,
+      "reactivations": 0
+    },
+    {
+      "day": 38,
+      "date": "2026-02-08",
+      "active": 871,
+      "expired": 129,
+      "total": 1000,
+      "active_ratio": 0.871,
+      "total_transitions": 14,
+      "reactivations": 0
+    },
+    {
+      "day": 39,
+      "date": "2026-02-09",
+      "active": 857,
+      "expired": 143,
+      "total": 1000,
+      "active_ratio": 0.857,
+      "total_transitions": 14,
+      "reactivations": 0
+    },
+    {
+      "day": 40,
+      "date": "2026-02-10",
+      "active": 847,
+      "expired": 153,
+      "total": 1000,
+      "active_ratio": 0.847,
+      "total_transitions": 10,
+      "reactivations": 0
+    },
+    {
+      "day": 41,
+      "date": "2026-02-11",
+      "active": 829,
+      "expired": 171,
+      "total": 1000,
+      "active_ratio": 0.829,
+      "total_transitions": 18,
+      "reactivations": 0
+    },
+    {
+      "day": 42,
+      "date": "2026-02-12",
+      "active": 814,
+      "expired": 186,
+      "total": 1000,
+      "active_ratio": 0.814,
+      "total_transitions": 15,
+      "reactivations": 0
+    },
+    {
+      "day": 43,
+      "date": "2026-02-13",
+      "active": 801,
+      "expired": 199,
+      "total": 1000,
+      "active_ratio": 0.801,
+      "total_transitions": 13,
+      "reactivations": 0
+    },
+    {
+      "day": 44,
+      "date": "2026-02-14",
+      "active": 785,
+      "expired": 215,
+      "total": 1000,
+      "active_ratio": 0.785,
+      "total_transitions": 16,
+      "reactivations": 0
+    },
+    {
+      "day": 45,
+      "date": "2026-02-15",
+      "active": 763,
+      "expired": 237,
+      "total": 1000,
+      "active_ratio": 0.763,
+      "total_transitions": 22,
+      "reactivations": 0
+    },
+    {
+      "day": 46,
+      "date": "2026-02-16",
+      "active": 753,
+      "expired": 247,
+      "total": 1000,
+      "active_ratio": 0.753,
+      "total_transitions": 10,
+      "reactivations": 0
+    },
+    {
+      "day": 47,
+      "date": "2026-02-17",
+      "active": 730,
+      "expired": 270,
+      "total": 1000,
+      "active_ratio": 0.73,
+      "total_transitions": 23,
+      "reactivations": 0
+    },
+    {
+      "day": 48,
+      "date": "2026-02-18",
+      "active": 713,
+      "expired": 287,
+      "total": 1000,
+      "active_ratio": 0.713,
+      "total_transitions": 17,
+      "reactivations": 0
+    },
+    {
+      "day": 49,
+      "date": "2026-02-19",
+      "active": 698,
+      "expired": 302,
+      "total": 1000,
+      "active_ratio": 0.698,
+      "total_transitions": 15,
+      "reactivations": 0
+    },
+    {
+      "day": 50,
+      "date": "2026-02-20",
+      "active": 682,
+      "expired": 318,
+      "total": 1000,
+      "active_ratio": 0.682,
+      "total_transitions": 16,
+      "reactivations": 0
+    },
+    {
+      "day": 51,
+      "date": "2026-02-21",
+      "active": 665,
+      "expired": 335,
+      "total": 1000,
+      "active_ratio": 0.665,
+      "total_transitions": 17,
+      "reactivations": 0
+    },
+    {
+      "day": 52,
+      "date": "2026-02-22",
+      "active": 647,
+      "expired": 353,
+      "total": 1000,
+      "active_ratio": 0.647,
+      "total_transitions": 18,
+      "reactivations": 0
+    },
+    {
+      "day": 53,
+      "date": "2026-02-23",
+      "active": 634,
+      "expired": 366,
+      "total": 1000,
+      "active_ratio": 0.634,
+      "total_transitions": 13,
+      "reactivations": 0
+    },
+    {
+      "day": 54,
+      "date": "2026-02-24",
+      "active": 618,
+      "expired": 382,
+      "total": 1000,
+      "active_ratio": 0.618,
+      "total_transitions": 16,
+      "reactivations": 0
+    },
+    {
+      "day": 55,
+      "date": "2026-02-25",
+      "active": 605,
+      "expired": 395,
+      "total": 1000,
+      "active_ratio": 0.605,
+      "total_transitions": 13,
+      "reactivations": 0
+    },
+    {
+      "day": 56,
+      "date": "2026-02-26",
+      "active": 587,
+      "expired": 413,
+      "total": 1000,
+      "active_ratio": 0.587,
+      "total_transitions": 18,
+      "reactivations": 0
+    },
+    {
+      "day": 57,
+      "date": "2026-02-27",
+      "active": 573,
+      "expired": 427,
+      "total": 1000,
+      "active_ratio": 0.573,
+      "total_transitions": 14,
+      "reactivations": 0
+    },
+    {
+      "day": 58,
+      "date": "2026-02-28",
+      "active": 559,
+      "expired": 441,
+      "total": 1000,
+      "active_ratio": 0.559,
+      "total_transitions": 14,
+      "reactivations": 0
+    },
+    {
+      "day": 59,
+      "date": "2026-03-01",
+      "active": 537,
+      "expired": 463,
+      "total": 1000,
+      "active_ratio": 0.537,
+      "total_transitions": 22,
+      "reactivations": 0
+    },
+    {
+      "day": 60,
+      "date": "2026-03-02",
+      "active": 523,
+      "expired": 477,
+      "total": 1000,
+      "active_ratio": 0.523,
+      "total_transitions": 14,
+      "reactivations": 0
+    },
+    {
+      "day": 61,
+      "date": "2026-03-03",
+      "active": 506,
+      "expired": 494,
+      "total": 1000,
+      "active_ratio": 0.506,
+      "total_transitions": 17,
+      "reactivations": 0
+    },
+    {
+      "day": 62,
+      "date": "2026-03-04",
+      "active": 489,
+      "expired": 511,
+      "total": 1000,
+      "active_ratio": 0.489,
+      "total_transitions": 17,
+      "reactivations": 0
+    },
+    {
+      "day": 63,
+      "date": "2026-03-05",
+      "active": 478,
+      "expired": 522,
+      "total": 1000,
+      "active_ratio": 0.478,
+      "total_transitions": 11,
+      "reactivations": 0
+    },
+    {
+      "day": 64,
+      "date": "2026-03-06",
+      "active": 471,
+      "expired": 529,
+      "total": 1000,
+      "active_ratio": 0.471,
+      "total_transitions": 7,
+      "reactivations": 0
+    },
+    {
+      "day": 65,
+      "date": "2026-03-07",
+      "active": 452,
+      "expired": 548,
+      "total": 1000,
+      "active_ratio": 0.452,
+      "total_transitions": 19,
+      "reactivations": 0
+    },
+    {
+      "day": 66,
+      "date": "2026-03-08",
+      "active": 440,
+      "expired": 560,
+      "total": 1000,
+      "active_ratio": 0.44,
+      "total_transitions": 12,
+      "reactivations": 0
+    },
+    {
+      "day": 67,
+      "date": "2026-03-09",
+      "active": 422,
+      "expired": 578,
+      "total": 1000,
+      "active_ratio": 0.422,
+      "total_transitions": 18,
+      "reactivations": 0
+    },
+    {
+      "day": 68,
+      "date": "2026-03-10",
+      "active": 408,
+      "expired": 592,
+      "total": 1000,
+      "active_ratio": 0.408,
+      "total_transitions": 14,
+      "reactivations": 0
+    },
+    {
+      "day": 69,
+      "date": "2026-03-11",
+      "active": 392,
+      "expired": 608,
+      "total": 1000,
+      "active_ratio": 0.392,
+      "total_transitions": 16,
+      "reactivations": 0
+    },
+    {
+      "day": 70,
+      "date": "2026-03-12",
+      "active": 359,
+      "expired": 641,
+      "total": 1000,
+      "active_ratio": 0.359,
+      "total_transitions": 33,
+      "reactivations": 0
+    },
+    {
+      "day": 71,
+      "date": "2026-03-13",
+      "active": 338,
+      "expired": 662,
+      "total": 1000,
+      "active_ratio": 0.338,
+      "total_transitions": 21,
+      "reactivations": 0
+    },
+    {
+      "day": 72,
+      "date": "2026-03-14",
+      "active": 328,
+      "expired": 672,
+      "total": 1000,
+      "active_ratio": 0.328,
+      "total_transitions": 10,
+      "reactivations": 0
+    },
+    {
+      "day": 73,
+      "date": "2026-03-15",
+      "active": 311,
+      "expired": 689,
+      "total": 1000,
+      "active_ratio": 0.311,
+      "total_transitions": 17,
+      "reactivations": 0
+    },
+    {
+      "day": 74,
+      "date": "2026-03-16",
+      "active": 297,
+      "expired": 703,
+      "total": 1000,
+      "active_ratio": 0.297,
+      "total_transitions": 14,
+      "reactivations": 0
+    },
+    {
+      "day": 75,
+      "date": "2026-03-17",
+      "active": 279,
+      "expired": 721,
+      "total": 1000,
+      "active_ratio": 0.279,
+      "total_transitions": 18,
+      "reactivations": 0
+    },
+    {
+      "day": 76,
+      "date": "2026-03-18",
+      "active": 259,
+      "expired": 741,
+      "total": 1000,
+      "active_ratio": 0.259,
+      "total_transitions": 20,
+      "reactivations": 0
+    },
+    {
+      "day": 77,
+      "date": "2026-03-19",
+      "active": 242,
+      "expired": 758,
+      "total": 1000,
+      "active_ratio": 0.242,
+      "total_transitions": 17,
+      "reactivations": 0
+    },
+    {
+      "day": 78,
+      "date": "2026-03-20",
+      "active": 219,
+      "expired": 781,
+      "total": 1000,
+      "active_ratio": 0.219,
+      "total_transitions": 23,
+      "reactivations": 0
+    },
+    {
+      "day": 79,
+      "date": "2026-03-21",
+      "active": 201,
+      "expired": 799,
+      "total": 1000,
+      "active_ratio": 0.201,
+      "total_transitions": 18,
+      "reactivations": 0
+    },
+    {
+      "day": 80,
+      "date": "2026-03-22",
+      "active": 183,
+      "expired": 817,
+      "total": 1000,
+      "active_ratio": 0.183,
+      "total_transitions": 18,
+      "reactivations": 0
+    },
+    {
+      "day": 81,
+      "date": "2026-03-23",
+      "active": 164,
+      "expired": 836,
+      "total": 1000,
+      "active_ratio": 0.164,
+      "total_transitions": 19,
+      "reactivations": 0
+    },
+    {
+      "day": 82,
+      "date": "2026-03-24",
+      "active": 147,
+      "expired": 853,
+      "total": 1000,
+      "active_ratio": 0.147,
+      "total_transitions": 17,
+      "reactivations": 0
+    },
+    {
+      "day": 83,
+      "date": "2026-03-25",
+      "active": 135,
+      "expired": 865,
+      "total": 1000,
+      "active_ratio": 0.135,
+      "total_transitions": 12,
+      "reactivations": 0
+    },
+    {
+      "day": 84,
+      "date": "2026-03-26",
+      "active": 118,
+      "expired": 882,
+      "total": 1000,
+      "active_ratio": 0.118,
+      "total_transitions": 17,
+      "reactivations": 0
+    },
+    {
+      "day": 85,
+      "date": "2026-03-27",
+      "active": 117,
+      "expired": 883,
+      "total": 1000,
+      "active_ratio": 0.117,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 86,
+      "date": "2026-03-28",
+      "active": 117,
+      "expired": 883,
+      "total": 1000,
+      "active_ratio": 0.117,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 87,
+      "date": "2026-03-29",
+      "active": 117,
+      "expired": 883,
+      "total": 1000,
+      "active_ratio": 0.117,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 88,
+      "date": "2026-03-30",
+      "active": 116,
+      "expired": 884,
+      "total": 1000,
+      "active_ratio": 0.116,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 89,
+      "date": "2026-03-31",
+      "active": 116,
+      "expired": 884,
+      "total": 1000,
+      "active_ratio": 0.116,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 90,
+      "date": "2026-04-01",
+      "active": 115,
+      "expired": 885,
+      "total": 1000,
+      "active_ratio": 0.115,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 91,
+      "date": "2026-04-02",
+      "active": 115,
+      "expired": 885,
+      "total": 1000,
+      "active_ratio": 0.115,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 92,
+      "date": "2026-04-03",
+      "active": 115,
+      "expired": 885,
+      "total": 1000,
+      "active_ratio": 0.115,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 93,
+      "date": "2026-04-04",
+      "active": 112,
+      "expired": 888,
+      "total": 1000,
+      "active_ratio": 0.112,
+      "total_transitions": 3,
+      "reactivations": 0
+    },
+    {
+      "day": 94,
+      "date": "2026-04-05",
+      "active": 110,
+      "expired": 890,
+      "total": 1000,
+      "active_ratio": 0.11,
+      "total_transitions": 2,
+      "reactivations": 0
+    },
+    {
+      "day": 95,
+      "date": "2026-04-06",
+      "active": 109,
+      "expired": 891,
+      "total": 1000,
+      "active_ratio": 0.109,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 96,
+      "date": "2026-04-07",
+      "active": 106,
+      "expired": 894,
+      "total": 1000,
+      "active_ratio": 0.106,
+      "total_transitions": 3,
+      "reactivations": 0
+    },
+    {
+      "day": 97,
+      "date": "2026-04-08",
+      "active": 105,
+      "expired": 895,
+      "total": 1000,
+      "active_ratio": 0.105,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 98,
+      "date": "2026-04-09",
+      "active": 105,
+      "expired": 895,
+      "total": 1000,
+      "active_ratio": 0.105,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 99,
+      "date": "2026-04-10",
+      "active": 105,
+      "expired": 895,
+      "total": 1000,
+      "active_ratio": 0.105,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 100,
+      "date": "2026-04-11",
+      "active": 105,
+      "expired": 895,
+      "total": 1000,
+      "active_ratio": 0.105,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 101,
+      "date": "2026-04-12",
+      "active": 104,
+      "expired": 896,
+      "total": 1000,
+      "active_ratio": 0.104,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 102,
+      "date": "2026-04-13",
+      "active": 104,
+      "expired": 896,
+      "total": 1000,
+      "active_ratio": 0.104,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 103,
+      "date": "2026-04-14",
+      "active": 104,
+      "expired": 896,
+      "total": 1000,
+      "active_ratio": 0.104,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 104,
+      "date": "2026-04-15",
+      "active": 104,
+      "expired": 896,
+      "total": 1000,
+      "active_ratio": 0.104,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 105,
+      "date": "2026-04-16",
+      "active": 104,
+      "expired": 896,
+      "total": 1000,
+      "active_ratio": 0.104,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 106,
+      "date": "2026-04-17",
+      "active": 103,
+      "expired": 897,
+      "total": 1000,
+      "active_ratio": 0.103,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 107,
+      "date": "2026-04-18",
+      "active": 102,
+      "expired": 898,
+      "total": 1000,
+      "active_ratio": 0.102,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 108,
+      "date": "2026-04-19",
+      "active": 102,
+      "expired": 898,
+      "total": 1000,
+      "active_ratio": 0.102,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 109,
+      "date": "2026-04-20",
+      "active": 101,
+      "expired": 899,
+      "total": 1000,
+      "active_ratio": 0.101,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 110,
+      "date": "2026-04-21",
+      "active": 101,
+      "expired": 899,
+      "total": 1000,
+      "active_ratio": 0.101,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 111,
+      "date": "2026-04-22",
+      "active": 101,
+      "expired": 899,
+      "total": 1000,
+      "active_ratio": 0.101,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 112,
+      "date": "2026-04-23",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 1,
+      "reactivations": 0
+    },
+    {
+      "day": 113,
+      "date": "2026-04-24",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 114,
+      "date": "2026-04-25",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 115,
+      "date": "2026-04-26",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 116,
+      "date": "2026-04-27",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 117,
+      "date": "2026-04-28",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 118,
+      "date": "2026-04-29",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 119,
+      "date": "2026-04-30",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 120,
+      "date": "2026-05-01",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 121,
+      "date": "2026-05-02",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 122,
+      "date": "2026-05-03",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 123,
+      "date": "2026-05-04",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 124,
+      "date": "2026-05-05",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 125,
+      "date": "2026-05-06",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 126,
+      "date": "2026-05-07",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 127,
+      "date": "2026-05-08",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 128,
+      "date": "2026-05-09",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 129,
+      "date": "2026-05-10",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 130,
+      "date": "2026-05-11",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 131,
+      "date": "2026-05-12",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 132,
+      "date": "2026-05-13",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 133,
+      "date": "2026-05-14",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 134,
+      "date": "2026-05-15",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 135,
+      "date": "2026-05-16",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 136,
+      "date": "2026-05-17",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 137,
+      "date": "2026-05-18",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 138,
+      "date": "2026-05-19",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 139,
+      "date": "2026-05-20",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 140,
+      "date": "2026-05-21",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 141,
+      "date": "2026-05-22",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 142,
+      "date": "2026-05-23",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 143,
+      "date": "2026-05-24",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 144,
+      "date": "2026-05-25",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 145,
+      "date": "2026-05-26",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 146,
+      "date": "2026-05-27",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 147,
+      "date": "2026-05-28",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 148,
+      "date": "2026-05-29",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 149,
+      "date": "2026-05-30",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 150,
+      "date": "2026-05-31",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 151,
+      "date": "2026-06-01",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 152,
+      "date": "2026-06-02",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 153,
+      "date": "2026-06-03",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 154,
+      "date": "2026-06-04",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 155,
+      "date": "2026-06-05",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 156,
+      "date": "2026-06-06",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 157,
+      "date": "2026-06-07",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 158,
+      "date": "2026-06-08",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 159,
+      "date": "2026-06-09",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 160,
+      "date": "2026-06-10",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 161,
+      "date": "2026-06-11",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 162,
+      "date": "2026-06-12",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 163,
+      "date": "2026-06-13",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 164,
+      "date": "2026-06-14",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 165,
+      "date": "2026-06-15",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 166,
+      "date": "2026-06-16",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 167,
+      "date": "2026-06-17",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 168,
+      "date": "2026-06-18",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 169,
+      "date": "2026-06-19",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 170,
+      "date": "2026-06-20",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 171,
+      "date": "2026-06-21",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 172,
+      "date": "2026-06-22",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 173,
+      "date": "2026-06-23",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 174,
+      "date": "2026-06-24",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 175,
+      "date": "2026-06-25",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 176,
+      "date": "2026-06-26",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 177,
+      "date": "2026-06-27",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 178,
+      "date": "2026-06-28",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 179,
+      "date": "2026-06-29",
+      "active": 100,
+      "expired": 900,
+      "total": 1000,
+      "active_ratio": 0.1,
+      "total_transitions": 0,
+      "reactivations": 0
+    }
+  ],
+  "no_management": [
+    {
+      "day": 0,
+      "date": "2026-01-01",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 1,
+      "date": "2026-01-02",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 2,
+      "date": "2026-01-03",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 3,
+      "date": "2026-01-04",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 4,
+      "date": "2026-01-05",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 5,
+      "date": "2026-01-06",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 6,
+      "date": "2026-01-07",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 7,
+      "date": "2026-01-08",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 8,
+      "date": "2026-01-09",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 9,
+      "date": "2026-01-10",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 10,
+      "date": "2026-01-11",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 11,
+      "date": "2026-01-12",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 12,
+      "date": "2026-01-13",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 13,
+      "date": "2026-01-14",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 14,
+      "date": "2026-01-15",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 15,
+      "date": "2026-01-16",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 16,
+      "date": "2026-01-17",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 17,
+      "date": "2026-01-18",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 18,
+      "date": "2026-01-19",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 19,
+      "date": "2026-01-20",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 20,
+      "date": "2026-01-21",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 21,
+      "date": "2026-01-22",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 22,
+      "date": "2026-01-23",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 23,
+      "date": "2026-01-24",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 24,
+      "date": "2026-01-25",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 25,
+      "date": "2026-01-26",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 26,
+      "date": "2026-01-27",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 27,
+      "date": "2026-01-28",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 28,
+      "date": "2026-01-29",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 29,
+      "date": "2026-01-30",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 30,
+      "date": "2026-01-31",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 31,
+      "date": "2026-02-01",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 32,
+      "date": "2026-02-02",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 33,
+      "date": "2026-02-03",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 34,
+      "date": "2026-02-04",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 35,
+      "date": "2026-02-05",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 36,
+      "date": "2026-02-06",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 37,
+      "date": "2026-02-07",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 38,
+      "date": "2026-02-08",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 39,
+      "date": "2026-02-09",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 40,
+      "date": "2026-02-10",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 41,
+      "date": "2026-02-11",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 42,
+      "date": "2026-02-12",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 43,
+      "date": "2026-02-13",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 44,
+      "date": "2026-02-14",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 45,
+      "date": "2026-02-15",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 46,
+      "date": "2026-02-16",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 47,
+      "date": "2026-02-17",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 48,
+      "date": "2026-02-18",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 49,
+      "date": "2026-02-19",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 50,
+      "date": "2026-02-20",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 51,
+      "date": "2026-02-21",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 52,
+      "date": "2026-02-22",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 53,
+      "date": "2026-02-23",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 54,
+      "date": "2026-02-24",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 55,
+      "date": "2026-02-25",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 56,
+      "date": "2026-02-26",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 57,
+      "date": "2026-02-27",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 58,
+      "date": "2026-02-28",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 59,
+      "date": "2026-03-01",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 60,
+      "date": "2026-03-02",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 61,
+      "date": "2026-03-03",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 62,
+      "date": "2026-03-04",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 63,
+      "date": "2026-03-05",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 64,
+      "date": "2026-03-06",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 65,
+      "date": "2026-03-07",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 66,
+      "date": "2026-03-08",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 67,
+      "date": "2026-03-09",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 68,
+      "date": "2026-03-10",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 69,
+      "date": "2026-03-11",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 70,
+      "date": "2026-03-12",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 71,
+      "date": "2026-03-13",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 72,
+      "date": "2026-03-14",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 73,
+      "date": "2026-03-15",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 74,
+      "date": "2026-03-16",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 75,
+      "date": "2026-03-17",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 76,
+      "date": "2026-03-18",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 77,
+      "date": "2026-03-19",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 78,
+      "date": "2026-03-20",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 79,
+      "date": "2026-03-21",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 80,
+      "date": "2026-03-22",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 81,
+      "date": "2026-03-23",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 82,
+      "date": "2026-03-24",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 83,
+      "date": "2026-03-25",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 84,
+      "date": "2026-03-26",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 85,
+      "date": "2026-03-27",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 86,
+      "date": "2026-03-28",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 87,
+      "date": "2026-03-29",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 88,
+      "date": "2026-03-30",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 89,
+      "date": "2026-03-31",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 90,
+      "date": "2026-04-01",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 91,
+      "date": "2026-04-02",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 92,
+      "date": "2026-04-03",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 93,
+      "date": "2026-04-04",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 94,
+      "date": "2026-04-05",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 95,
+      "date": "2026-04-06",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 96,
+      "date": "2026-04-07",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 97,
+      "date": "2026-04-08",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 98,
+      "date": "2026-04-09",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 99,
+      "date": "2026-04-10",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 100,
+      "date": "2026-04-11",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 101,
+      "date": "2026-04-12",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 102,
+      "date": "2026-04-13",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 103,
+      "date": "2026-04-14",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 104,
+      "date": "2026-04-15",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 105,
+      "date": "2026-04-16",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 106,
+      "date": "2026-04-17",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 107,
+      "date": "2026-04-18",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 108,
+      "date": "2026-04-19",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 109,
+      "date": "2026-04-20",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 110,
+      "date": "2026-04-21",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 111,
+      "date": "2026-04-22",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 112,
+      "date": "2026-04-23",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 113,
+      "date": "2026-04-24",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 114,
+      "date": "2026-04-25",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 115,
+      "date": "2026-04-26",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 116,
+      "date": "2026-04-27",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 117,
+      "date": "2026-04-28",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 118,
+      "date": "2026-04-29",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 119,
+      "date": "2026-04-30",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 120,
+      "date": "2026-05-01",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 121,
+      "date": "2026-05-02",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 122,
+      "date": "2026-05-03",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 123,
+      "date": "2026-05-04",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 124,
+      "date": "2026-05-05",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 125,
+      "date": "2026-05-06",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 126,
+      "date": "2026-05-07",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 127,
+      "date": "2026-05-08",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 128,
+      "date": "2026-05-09",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 129,
+      "date": "2026-05-10",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 130,
+      "date": "2026-05-11",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 131,
+      "date": "2026-05-12",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 132,
+      "date": "2026-05-13",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 133,
+      "date": "2026-05-14",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 134,
+      "date": "2026-05-15",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 135,
+      "date": "2026-05-16",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 136,
+      "date": "2026-05-17",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 137,
+      "date": "2026-05-18",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 138,
+      "date": "2026-05-19",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 139,
+      "date": "2026-05-20",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 140,
+      "date": "2026-05-21",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 141,
+      "date": "2026-05-22",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 142,
+      "date": "2026-05-23",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 143,
+      "date": "2026-05-24",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 144,
+      "date": "2026-05-25",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 145,
+      "date": "2026-05-26",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 146,
+      "date": "2026-05-27",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 147,
+      "date": "2026-05-28",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 148,
+      "date": "2026-05-29",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 149,
+      "date": "2026-05-30",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 150,
+      "date": "2026-05-31",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 151,
+      "date": "2026-06-01",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 152,
+      "date": "2026-06-02",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 153,
+      "date": "2026-06-03",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 154,
+      "date": "2026-06-04",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 155,
+      "date": "2026-06-05",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 156,
+      "date": "2026-06-06",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 157,
+      "date": "2026-06-07",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 158,
+      "date": "2026-06-08",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 159,
+      "date": "2026-06-09",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 160,
+      "date": "2026-06-10",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 161,
+      "date": "2026-06-11",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 162,
+      "date": "2026-06-12",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 163,
+      "date": "2026-06-13",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 164,
+      "date": "2026-06-14",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 165,
+      "date": "2026-06-15",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 166,
+      "date": "2026-06-16",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 167,
+      "date": "2026-06-17",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 168,
+      "date": "2026-06-18",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 169,
+      "date": "2026-06-19",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 170,
+      "date": "2026-06-20",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 171,
+      "date": "2026-06-21",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 172,
+      "date": "2026-06-22",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 173,
+      "date": "2026-06-23",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 174,
+      "date": "2026-06-24",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 175,
+      "date": "2026-06-25",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 176,
+      "date": "2026-06-26",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 177,
+      "date": "2026-06-27",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 178,
+      "date": "2026-06-28",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    },
+    {
+      "day": 179,
+      "date": "2026-06-29",
+      "active": 1000,
+      "total": 1000,
+      "active_ratio": 1.0,
+      "total_transitions": 0,
+      "reactivations": 0
+    }
+  ]
+}

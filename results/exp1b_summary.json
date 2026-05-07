@@ -1,0 +1,444 @@
+{
+  "fixed_scaling": {
+    "200": {
+      "hermes": {
+        "pool_size": 65,
+        "per_query_ops": 33280,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 0.0357,
+        "signal_ratio": 0.9231,
+        "cumulative_ops": 105466880
+      },
+      "simple": {
+        "pool_size": 60,
+        "per_query_ops": 30720,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 0.0,
+        "signal_ratio": 1.0,
+        "cumulative_ops": 98119680
+      },
+      "noop": {
+        "pool_size": 200,
+        "per_query_ops": 102400,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 1.0,
+        "signal_ratio": 0.3,
+        "cumulative_ops": 184320000
+      }
+    },
+    "500": {
+      "hermes": {
+        "pool_size": 165,
+        "per_query_ops": 84480,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 0.0429,
+        "signal_ratio": 0.9091,
+        "cumulative_ops": 258416640
+      },
+      "simple": {
+        "pool_size": 150,
+        "per_query_ops": 76800,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 0.0,
+        "signal_ratio": 1.0,
+        "cumulative_ops": 240158720
+      },
+      "noop": {
+        "pool_size": 500,
+        "per_query_ops": 256000,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 1.0,
+        "signal_ratio": 0.3,
+        "cumulative_ops": 460800000
+      }
+    },
+    "1000": {
+      "hermes": {
+        "pool_size": 332,
+        "per_query_ops": 169984,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 0.0457,
+        "signal_ratio": 0.9036,
+        "cumulative_ops": 519726080
+      },
+      "simple": {
+        "pool_size": 300,
+        "per_query_ops": 153600,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 0.0,
+        "signal_ratio": 1.0,
+        "cumulative_ops": 484106240
+      },
+      "noop": {
+        "pool_size": 1000,
+        "per_query_ops": 512000,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 1.0,
+        "signal_ratio": 0.3,
+        "cumulative_ops": 921600000
+      }
+    },
+    "2000": {
+      "hermes": {
+        "pool_size": 669,
+        "per_query_ops": 342528,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 0.0493,
+        "signal_ratio": 0.8969,
+        "cumulative_ops": 1049349120
+      },
+      "simple": {
+        "pool_size": 600,
+        "per_query_ops": 307200,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 0.0,
+        "signal_ratio": 1.0,
+        "cumulative_ops": 970265600
+      },
+      "noop": {
+        "pool_size": 2000,
+        "per_query_ops": 1024000,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 1.0,
+        "signal_ratio": 0.3,
+        "cumulative_ops": 1843200000
+      }
+    },
+    "5000": {
+      "hermes": {
+        "pool_size": 1660,
+        "per_query_ops": 849920,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 0.0457,
+        "signal_ratio": 0.9036,
+        "cumulative_ops": 2602997760
+      },
+      "simple": {
+        "pool_size": 1500,
+        "per_query_ops": 768000,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 0.0,
+        "signal_ratio": 1.0,
+        "cumulative_ops": 2417592320
+      },
+      "noop": {
+        "pool_size": 5000,
+        "per_query_ops": 2560000,
+        "recall_high": 1.0,
+        "recall_mid": 1.0,
+        "recall_low": 1.0,
+        "signal_ratio": 0.3,
+        "cumulative_ops": 4608000000
+      }
+    }
+  },
+  "growth_milestones": {
+    "hermes": {
+      "day30": {
+        "day": 29,
+        "pool_size": 150,
+        "total_stored": 150,
+        "per_query_ops": 76800,
+        "per_query_tokens": 250,
+        "cumulative_ops": 11904000,
+        "cumulative_tokens": 75000,
+        "useful_in_pool": 150,
+        "total_useful": 150,
+        "recall": 1.0,
+        "cost_ratio_vs_noop": 1.0
+      },
+      "day90": {
+        "day": 89,
+        "pool_size": 262,
+        "total_stored": 450,
+        "per_query_ops": 134144,
+        "per_query_tokens": 250,
+        "cumulative_ops": 83870720,
+        "cumulative_tokens": 225000,
+        "useful_in_pool": 107,
+        "total_useful": 150,
+        "recall": 0.7133,
+        "cost_ratio_vs_noop": 0.5822
+      },
+      "day180": {
+        "day": 179,
+        "pool_size": 252,
+        "total_stored": 900,
+        "per_query_ops": 129024,
+        "per_query_tokens": 250,
+        "cumulative_ops": 203857920,
+        "cumulative_tokens": 450000,
+        "useful_in_pool": 93,
+        "total_useful": 150,
+        "recall": 0.62,
+        "cost_ratio_vs_noop": 0.28
+      },
+      "day365": {
+        "day": 364,
+        "pool_size": 257,
+        "total_stored": 1825,
+        "per_query_ops": 131584,
+        "per_query_tokens": 250,
+        "cumulative_ops": 447646720,
+        "cumulative_tokens": 912500,
+        "useful_in_pool": 82,
+        "total_useful": 150,
+        "recall": 0.5467,
+        "cost_ratio_vs_noop": 0.1408
+      },
+      "day550": {
+        "day": 549,
+        "pool_size": 249,
+        "total_stored": 2750,
+        "per_query_ops": 127488,
+        "per_query_tokens": 250,
+        "cumulative_ops": 688680960,
+        "cumulative_tokens": 1375000,
+        "useful_in_pool": 58,
+        "total_useful": 150,
+        "recall": 0.3867,
+        "cost_ratio_vs_noop": 0.0905
+      },
+      "day730": {
+        "day": 729,
+        "pool_size": 268,
+        "total_stored": 3650,
+        "per_query_ops": 137216,
+        "per_query_tokens": 250,
+        "cumulative_ops": 924759040,
+        "cumulative_tokens": 1825000,
+        "useful_in_pool": 55,
+        "total_useful": 150,
+        "recall": 0.3667,
+        "cost_ratio_vs_noop": 0.0734
+      }
+    },
+    "simple": {
+      "day30": {
+        "day": 29,
+        "pool_size": 150,
+        "total_stored": 150,
+        "per_query_ops": 76800,
+        "per_query_tokens": 250,
+        "cumulative_ops": 11904000,
+        "cumulative_tokens": 75000,
+        "useful_in_pool": 150,
+        "total_useful": 150,
+        "recall": 1.0,
+        "cost_ratio_vs_noop": 1.0
+      },
+      "day90": {
+        "day": 89,
+        "pool_size": 190,
+        "total_stored": 450,
+        "per_query_ops": 97280,
+        "per_query_tokens": 250,
+        "cumulative_ops": 73891840,
+        "cumulative_tokens": 225000,
+        "useful_in_pool": 33,
+        "total_useful": 150,
+        "recall": 0.22,
+        "cost_ratio_vs_noop": 0.4222
+      },
+      "day180": {
+        "day": 179,
+        "pool_size": 161,
+        "total_stored": 900,
+        "per_query_ops": 82432,
+        "per_query_tokens": 250,
+        "cumulative_ops": 152632320,
+        "cumulative_tokens": 450000,
+        "useful_in_pool": 2,
+        "total_useful": 150,
+        "recall": 0.0133,
+        "cost_ratio_vs_noop": 0.1789
+      },
+      "day365": {
+        "day": 364,
+        "pool_size": 160,
+        "total_stored": 1825,
+        "per_query_ops": 81920,
+        "per_query_tokens": 250,
+        "cumulative_ops": 304430080,
+        "cumulative_tokens": 912500,
+        "useful_in_pool": 0,
+        "total_useful": 150,
+        "recall": 0.0,
+        "cost_ratio_vs_noop": 0.0877
+      },
+      "day550": {
+        "day": 549,
+        "pool_size": 161,
+        "total_stored": 2750,
+        "per_query_ops": 82432,
+        "per_query_tokens": 250,
+        "cumulative_ops": 455987200,
+        "cumulative_tokens": 1375000,
+        "useful_in_pool": 0,
+        "total_useful": 150,
+        "recall": 0.0,
+        "cost_ratio_vs_noop": 0.0585
+      },
+      "day730": {
+        "day": 729,
+        "pool_size": 159,
+        "total_stored": 3650,
+        "per_query_ops": 81408,
+        "per_query_tokens": 250,
+        "cumulative_ops": 604037120,
+        "cumulative_tokens": 1825000,
+        "useful_in_pool": 0,
+        "total_useful": 150,
+        "recall": 0.0,
+        "cost_ratio_vs_noop": 0.0436
+      }
+    },
+    "noop": {
+      "day30": {
+        "day": 29,
+        "pool_size": 150,
+        "total_stored": 150,
+        "per_query_ops": 76800,
+        "per_query_tokens": 250,
+        "cumulative_ops": 11904000,
+        "cumulative_tokens": 75000,
+        "useful_in_pool": 150,
+        "total_useful": 150,
+        "recall": 1.0,
+        "cost_ratio_vs_noop": null
+      },
+      "day90": {
+        "day": 89,
+        "pool_size": 450,
+        "total_stored": 450,
+        "per_query_ops": 230400,
+        "per_query_tokens": 250,
+        "cumulative_ops": 104832000,
+        "cumulative_tokens": 225000,
+        "useful_in_pool": 150,
+        "total_useful": 150,
+        "recall": 1.0,
+        "cost_ratio_vs_noop": null
+      },
+      "day180": {
+        "day": 179,
+        "pool_size": 900,
+        "total_stored": 900,
+        "per_query_ops": 460800,
+        "per_query_tokens": 250,
+        "cumulative_ops": 417024000,
+        "cumulative_tokens": 450000,
+        "useful_in_pool": 150,
+        "total_useful": 150,
+        "recall": 1.0,
+        "cost_ratio_vs_noop": null
+      },
+      "day365": {
+        "day": 364,
+        "pool_size": 1825,
+        "total_stored": 1825,
+        "per_query_ops": 934400,
+        "per_query_tokens": 250,
+        "cumulative_ops": 1709952000,
+        "cumulative_tokens": 912500,
+        "useful_in_pool": 150,
+        "total_useful": 150,
+        "recall": 1.0,
+        "cost_ratio_vs_noop": null
+      },
+      "day550": {
+        "day": 549,
+        "pool_size": 2750,
+        "total_stored": 2750,
+        "per_query_ops": 1408000,
+        "per_query_tokens": 250,
+        "cumulative_ops": 3879040000,
+        "cumulative_tokens": 1375000,
+        "useful_in_pool": 150,
+        "total_useful": 150,
+        "recall": 1.0,
+        "cost_ratio_vs_noop": null
+      },
+      "day730": {
+        "day": 729,
+        "pool_size": 3650,
+        "total_stored": 3650,
+        "per_query_ops": 1868800,
+        "per_query_tokens": 250,
+        "cumulative_ops": 6830464000,
+        "cumulative_tokens": 1825000,
+        "useful_in_pool": 150,
+        "total_useful": 150,
+        "recall": 1.0,
+        "cost_ratio_vs_noop": null
+      }
+    }
+  },
+  "cost_divergence": {
+    "day90": {
+      "noop_cumulative_ops": 104832000,
+      "hermes_cumulative_ops": 83870720,
+      "divergence_ratio": 1.25,
+      "hermes_recall": 0.7133,
+      "noop_recall": 1.0,
+      "hermes_per_query": 134144,
+      "noop_per_query": 230400,
+      "per_query_ratio": 1.72
+    },
+    "day180": {
+      "noop_cumulative_ops": 417024000,
+      "hermes_cumulative_ops": 203857920,
+      "divergence_ratio": 2.05,
+      "hermes_recall": 0.62,
+      "noop_recall": 1.0,
+      "hermes_per_query": 129024,
+      "noop_per_query": 460800,
+      "per_query_ratio": 3.57
+    },
+    "day365": {
+      "noop_cumulative_ops": 1709952000,
+      "hermes_cumulative_ops": 447646720,
+      "divergence_ratio": 3.82,
+      "hermes_recall": 0.5467,
+      "noop_recall": 1.0,
+      "hermes_per_query": 131584,
+      "noop_per_query": 934400,
+      "per_query_ratio": 7.1
+    },
+    "day550": {
+      "noop_cumulative_ops": 3879040000,
+      "hermes_cumulative_ops": 688680960,
+      "divergence_ratio": 5.63,
+      "hermes_recall": 0.3867,
+      "noop_recall": 1.0,
+      "hermes_per_query": 127488,
+      "noop_per_query": 1408000,
+      "per_query_ratio": 11.04
+    },
+    "day730": {
+      "noop_cumulative_ops": 6830464000,
+      "hermes_cumulative_ops": 924759040,
+      "divergence_ratio": 7.39,
+      "hermes_recall": 0.3667,
+      "noop_recall": 1.0,
+      "hermes_per_query": 137216,
+      "noop_per_query": 1868800,
+      "per_query_ratio": 13.62
+    }
+  },
+  "key_finding": "After 2 years (730 days, 5 records/day): NoOp total cost is 7.39x Hermes. Per-query: NoOp costs 13.62x more. Hermes recall=37%, NoOp recall=100%. Hermes converges, NoOp grows without bound."
+}
